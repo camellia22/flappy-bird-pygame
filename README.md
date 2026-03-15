@@ -14,8 +14,8 @@ Spacebar - Jump
 
 ## Installation
 Clone the repository:
-'''git clone https://github.com/camellia22/flappy-bird-pygame.git'''
+```git clone https://github.com/camellia22/flappy-bird-pygame.git```
 Install dependencies:
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 Run the game:
-'''python main.py'''
+```python main.py```
