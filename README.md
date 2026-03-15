@@ -10,7 +10,7 @@ A simple Flappy Bird clone built using Python and Pygame.
 - Sound effects
 
 ## Controls
-Spacebar — Jump
+Spacebar - Jump
 
 ## Installation
 Clone the repository:
