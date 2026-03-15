@@ -9,6 +9,9 @@ A simple Flappy Bird clone built using Python and Pygame.
 - Start and replay buttons
 - Sound effects
 
+## Controls
+Spacebar — Jump
+
 ## Installation
 Clone the repository:
 git clone https://github.com/camellia22/flappy-bird-pygame.git
