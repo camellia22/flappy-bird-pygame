@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Build artifacts
+dist/
+build/
+
+# Executables / archives
+*.exe
+*.zip
+*.rar
+
+# PyInstaller
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
